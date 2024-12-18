@@ -14,5 +14,4 @@ dependencies {
 
 createExe {
     mainClassName = 'SwingDemo'
-    outfile = 'build/libs/MyApp.exe'
 }
