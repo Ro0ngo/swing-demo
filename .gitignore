@@ -1,7 +1,5 @@
 *.class
 build/
-gradlew
-gradlew.bat
 *.iml
 settings.gradle
 .gradle
